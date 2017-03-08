@@ -1,0 +1,5 @@
+Subnet/Mask, Name;
+3.0.0.0/24, Internal DMZ;
+5.5.0.0/16, Database Tier;
+7.7.7.0/8, Core Services;
+fe80::/16, IPv6 Production;
