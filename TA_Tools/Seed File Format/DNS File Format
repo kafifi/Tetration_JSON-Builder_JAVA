@@ -1,0 +1,4 @@
+IP Address, Fully-Qualified Domain Name;
+10.0.0.1, web01.company.com;
+10.0.0.2, app02.company.com;
+10.0.0.3, db03.company.com;
