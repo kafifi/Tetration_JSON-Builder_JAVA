@@ -1,0 +1,4 @@
+Network/mask, Entry1, Entry2, Entry3, ....;
+3.0.0.0/8 , inra, internal;
+2.0.0.0/16 , infra, extern;
+4.0.0.0/23 , entry1, entry2, entry3, entry4;
